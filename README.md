@@ -11,5 +11,6 @@ Download latest release of **RedHat OpenShift Tool for Visual Studio with Docker
 The user guide for **RedHat OpenShift Tool for Visual Studio with Docker Tooling** is availble at http://click2cloud.net/docs/tools/?productid=9a5b8b19-dadf-4b46-8712-527303d32231. 
 
 
+For more details, you can mail us at contact@click2cloud.net or contact at +1 (425) 749-7495 and +1 (425) 748-9666. You can also visit our website www.click2cloud.net to get insight of tools and FAQs .
 
-To know more about **RedHat OpenShift Tool for Visual Studio with Docker Tooling**, contact us at support@click2cloud.net.
+Watch our [YouTube Playlist](https://www.youtube.com/playlist?list=PLWgCcDWQfFluLf2w8JTKkSgDXtRpQKwQA) to see how easy it is to develop and deploy application on OpenShift 3 using Click2Cloud’s RedHat OpenShift Tool for Visual Studio with Docker Tooling for Visual Studio 2015.
